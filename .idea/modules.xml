@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch-benchmark-project/elasticsearch-benchmark-project.iml" filepath="$PROJECT_DIR$/elasticsearch-benchmark-project/elasticsearch-benchmark-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oracle-benchmark-project/oracle-benchmark-project.iml" filepath="$PROJECT_DIR$/oracle-benchmark-project/oracle-benchmark-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/parent-project.iml" filepath="$PROJECT_DIR$/.idea/parent-project.iml" />
+    </modules>
+  </component>
+</project>
